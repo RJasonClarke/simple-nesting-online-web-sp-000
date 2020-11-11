@@ -16,9 +16,9 @@ def hopper
         }
      }
 
-end
+puts grace_hopper
 
-return :grace_hopper
+end
 
 def alan_kay_is_known_for
 	# What combination of keys would you use to return the value of the :known_for key of :alan_kay?
